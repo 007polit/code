@@ -1,0 +1,8 @@
+{
+  "api_key": "sk-90yd4iT08TOjboIBRo7z3A",
+  "api_model": "DeepSeek-R1",
+  "api_url": "https://llmapi.paratera.com",
+  "auto_save_enabled": "true",
+  "auto_save_interval": 5,
+  "tabsize": 4
+}

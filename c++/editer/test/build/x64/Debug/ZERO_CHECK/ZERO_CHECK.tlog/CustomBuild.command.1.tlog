@@ -1,0 +1,10 @@
+^F:\CODE\C++\EDITER\TEST\BUILD\CMAKEFILES\BC24EE121676A056A93C46D839F371CF\GENERATE.STAMP.RULE
+setlocal
+"E:\exe\visual studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SF:/code/c++/editer/test -BF:/code/c++/editer/test/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file F:/code/c++/editer/test/build/editer_tests.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

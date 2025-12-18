@@ -1,0 +1,33 @@
+Start testing: Dec 18 19:59 中国标准时间
+----------------------------------------------------------
+1/1 Testing: EditerTests
+1/1 Test: EditerTests
+Command: "F:/code/c++/editer/test/build/Debug/editer_tests.exe"
+Directory: F:/code/c++/editer/test/build
+"EditerTests" start time: Dec 18 19:59 中国标准时间
+Output:
+----------------------------------------------------------
+Editer Test Suite
+================================
+
+[PASS] Buffer_Insert_and_Size
+[PASS] Buffer_Find
+[PASS] Buffer_Delete
+[PASS] Buffer_MultiLine
+[PASS] Editor_Initialize
+[PASS] Editor_InsertAndDisplay
+[PASS] Editor_Undo
+[PASS] Editor_Redo
+[PASS] Editor_UndoRedoMultiple
+
+Summary: 9 / 9 passed
+[SUCCESS] All tests passed!
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"EditerTests" end time: Dec 18 19:59 中国标准时间
+"EditerTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 18 19:59 中国标准时间
