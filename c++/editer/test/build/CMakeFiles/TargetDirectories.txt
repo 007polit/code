@@ -1,4 +1,0 @@
-F:/code/c++/editer/test/build/CMakeFiles/editer_tests.dir
-F:/code/c++/editer/test/build/CMakeFiles/RUN_TESTS.dir
-F:/code/c++/editer/test/build/CMakeFiles/ALL_BUILD.dir
-F:/code/c++/editer/test/build/CMakeFiles/ZERO_CHECK.dir
